@@ -1,6 +1,17 @@
-Show article
--branch
+-User sign-up
 
-create 1 article to display 
+-topic branch
+-create spec
 
--show the article title and details
+Signing up users
+-visit root
+-click on sign up link
+-email
+-password
+-password confirmation
+
+-sign-up
+
+Invalid signup
+
+- do an invalid signup and ensure that it fails
