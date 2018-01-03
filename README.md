@@ -1,9 +1,6 @@
-Listing article features list
+Show article
+-branch
 
--create 2 articles to display
+create 1 article to display 
 
--list the two articles
-
--expect both article titles and bodies to be present
-
-
+-show the article title and details
