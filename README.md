@@ -1,17 +1,7 @@
-Articles will belong to users
+Restrict Access
 
-Users will own articles
 
-Users - 1 side of this
+-Hide the "New Article button from non signed users"
+-Hide the Edit and Delete button from non owners of the article
+-Permit the owners to edit or delete their own articles
 
-Article - many
-
-1 user can have many articles
-
-an article can only belong to 1 user
-
-foreign key of user_id in the articles table
-
-Steps:
-
--Create the spec
